@@ -3,9 +3,11 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-      <div>  <h2>Hi there </h2>
+      <div>  
+        <h1>
+          Hi there
+          </h1>
         <Button> Aa Daba De</Button>
       </div>
-      
-        );
+      );
 }
